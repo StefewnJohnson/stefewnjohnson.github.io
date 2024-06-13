@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/stefewnjohnson.github.io/static/css/main.93337f1c.css",
+    "main.js": "/stefewnjohnson.github.io/static/js/main.a291ef05.js",
+    "static/media/HeroImage.jpg": "/stefewnjohnson.github.io/static/media/HeroImage.45438e3a1187612b6f08.jpg",
+    "index.html": "/stefewnjohnson.github.io/index.html",
+    "main.93337f1c.css.map": "/stefewnjohnson.github.io/static/css/main.93337f1c.css.map",
+    "main.a291ef05.js.map": "/stefewnjohnson.github.io/static/js/main.a291ef05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93337f1c.css",
+    "static/js/main.a291ef05.js"
+  ]
+}
